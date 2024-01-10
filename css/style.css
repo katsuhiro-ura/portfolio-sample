@@ -33,6 +33,12 @@ ul,li{
     }
     
 }
+.works{
+    .header>h1{
+        color: #40c65f;
+    }
+    
+}
 .gnav{
     width: 100%;
     height: auto;
