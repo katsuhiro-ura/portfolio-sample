@@ -39,6 +39,12 @@ ul,li{
     }
     
 }
+.works{
+    .header>h1{
+        color: #63e381;
+    }
+    
+}
 .gnav{
     width: 100%;
     height: auto;
